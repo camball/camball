@@ -9,7 +9,7 @@ Obsessed with all things computers, especially...
 - 🔭 Theoretical Computer Science
 - 🗺️ Software Design
 - 🌎 NLP, Internationalisation, and Localisation
-- 📝 Documentation and Note Taking (I'm an [Obsidian](https://obsidian.md) fan for life)
+- 📝 Documentation, Note Taking (I'm an [Obsidian](https://obsidian.md) fan for life), and Technical Writing
 - 👨‍💻 Python, Rust, Go, Shell, TypeScript, and any functional langauge...
 
 Currently, I work on an internal FaaS platform for [@americanexpress](https://github.com/americanexpress) (One Data), and I couldn't be happier with where I'm at.
