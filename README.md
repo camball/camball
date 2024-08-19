@@ -16,6 +16,8 @@ Currently, I work on an internal FaaS platform for [@americanexpress](https://gi
 
 I write about software engineering on [`blog.camball.io`](https://blog.camball.io).
 
+See more on my website, [`camball.io`](https://camball.io).
+
 ---
 
 <div align="center">
