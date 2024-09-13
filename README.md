@@ -25,6 +25,8 @@ See more on my website, [`camball.io`](https://camball.io).
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/camballl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camballl)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camball&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 </div>
 
 ---
