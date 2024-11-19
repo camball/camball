@@ -10,9 +10,9 @@ Obsessed with all things computers, especially...
 - 🗺️ Software Design
 - 🌎 NLP, Internationalisation, and Localisation
 - 📝 Documentation, Note Taking (I'm an [Obsidian](https://obsidian.md) fan for life), and Technical Writing
-- 👨‍💻 Python, Rust, Go, Shell, TypeScript, and any functional langauge...
+- 👨‍💻 Python, TypeScript, Shell, Go, and any functional langauge... (currently in progress of learning Rust and Go)
 
-Currently, I work on an internal FaaS platform for [@americanexpress](https://github.com/americanexpress) (One Data), and I couldn't be happier with where I'm at.
+Currently, I work on an internal FaaS platform for [@americanexpress](https://github.com/americanexpress) (One Data), eagerly learning the ins and outs of distributed computing, providing an excellent developer experience for our consumers, and maintaining a reliable platform.
 
 I write about software engineering on [`blog.camball.io`](https://blog.camball.io).
 
