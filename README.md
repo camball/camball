@@ -1,4 +1,6 @@
-# cameron ball ⭐️ ![Python](https://img.shields.io/badge/python-5583B3?style=plastic&logo=python&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+# cameron ball ⭐️ 
+
+![Python](https://img.shields.io/badge/python-5583B3?style=plastic&logo=python&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 
 hi, i'm cameron.
 
@@ -8,11 +10,11 @@ obsessed with all things swe and design.
 
 <div align="right">
 
-`🎨 ui/ux` `🔭 theoretical cs` `⚙️ devops, ci/cd`
+`🎨 ui/ux` `🌲🧮 dsa` `⚙️ devops, ci/cd`
 
-`🗺️ scalable architectures` `🌎 nlp, i18n, l10n`
+`🗺️ scalable arch` `🌎 nlp, i18n, l10n`
 
-`🌱 oss` `📝 docs, writing` `👨‍💻 dx` `📦 packaging`
+`🌱 oss` `📝 docs` `👨‍💻 dx` `📦 packaging`
 
 </div>
 
