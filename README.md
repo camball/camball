@@ -52,5 +52,5 @@ i write about software engineering on [`blog.camball.io`](https://blog.camball.i
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camball&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camball&theme=calm&show_icons=true&hide_border=true&count_private=true" />
 </div>
