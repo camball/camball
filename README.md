@@ -34,7 +34,7 @@ i write about software engineering on [`blog.camball.io`](https://blog.camball.i
 
 <div align="center">
 
-```text
+<pre>
 0  1  1  0  0  1  0  0
 0  1  1  0  1  0  0  1
 0  1  1  1  0  0  1  1
@@ -45,7 +45,7 @@ i write about software engineering on [`blog.camball.io`](https://blog.camball.i
 0  1  1  0  1  0  0  1
 0  1  1  0  1  1  1  0
 0  1  1  0  0  1  0  1
-```
+</pre>
 
 </div>
 
