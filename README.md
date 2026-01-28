@@ -4,7 +4,7 @@
 
 hi, i'm cameron.
 
-currently working on [soraban](https://www.soraban.com), the ai-powered admin assistant for accounting firms.
+currently working on [treasure](https://treasurefi.com), turning companies' idle cash into revenue.
 
 obsessed with all things swe and design.
 
